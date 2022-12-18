@@ -8,7 +8,7 @@ def multiply(x,y)
     return x * y
  
 def devide(x,y)
-    return x / y
+    pass
  
 def square(x)
     pass
